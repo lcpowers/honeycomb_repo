@@ -1,3 +1,13 @@
 # honeycomb_repo
 
-Testing
+## Project Description
+
+A honeycomb is the hexagonal arrangement of cells made of wax, built by the bees in their nests. A common explanation exists as to why honeycomb is made of hexagonal cells. The hexagonal structure is giving a partition of a surface with equal-sized cells, which are minimizing the total perimeter of the cells. This is known as the "honeycomb conjecture". Thus, the bees need to use in the hexagonal structure the least material to create the cells within a given volume. 
+
+## Motivation & Hypothesis
+
+Honeycombs are known for their hexagonal cells and compact structure. They are widely used in structural applications -- such as architecture, mechanical engineering, transportation, and even biomedicine -- because of their high strength per density. However, smaller details about the structure are still obscure. Most beehives feature rectangular shaped frames, from which bees will create comb. Those frames usually feature foundation, a flat layer of plastic or wax fitting into the rectangular shape of the frame. Generally, the familiar hexagonal shape of cells are imprinted all over this foundation. The foundation provides a surface on which the bees can begin building comb and it keeps their comb straight, thus avoiding the mess of cross comb. In order to study the strategies of honeybees to construct comb on different  foundations, we designed frames with spaced vertical bars with various hexagonal patterns as an alternative foundation over the frames. We hypothesize that the structure of the honeycomb cells that the bees will build over these frames may be very different from what is observed  in normal frames with consistent hexagonal foundations.  The geometry of the cells (i.e. their size and shape) could be different based on the position of the cell on the frame. In particular, we are very curious in identifying honeybees strategies when they are building comb over the empty space between the two patterned-columns. 
+
+## Our Proposed Method & Goal
+
+The objective of this research project is to understand the process bees go through to build their honeycombs by investigating differences in the structure or geometry of cells depending on their position and background pattern. To meet this objective, we will be placing our specially designed 3D printed frames in beehives and observe how the bees respond to the challenges of comb building in various foundation structures. Images will be analyzed through computer processing techniques to explore the cells’ shapes, sizes, or other notable trends in the cells as the bees build the structures.
